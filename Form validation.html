@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jsvalidator.js"></script>
+</head>
+<body>
+
+  <form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
+    First name: <input type="text" id="fname"> <spam id = spamfname></spam></br>
+    Last name: <input type="text" id="lname"> <spam id = spamlname></spam></br>
+    EGN: <input type="int" id="egn"> <spam id = spamegn></spam> </br>
+    Age: <input type="text" id="age"> <spam id = spamage></spam> </br>
+    Adress: <input type="text" id="adress"> <spam id = spamadress></spam> </br>
+    Password: <input type="password" id="pass"> <spam id = spampass></spam> </br>
+    Confirm password: <input type="password" id="cpass"> <spam id = spamcpass></spam> </br>
+  </form>
+ <input type="submit" onclick="validateForm()">
+</body>
+</html>
