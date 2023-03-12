@@ -8,4 +8,4 @@
 [![1]][2]
 
 [1]: https://github.com/KKKirilov/Form-Validation/blob/master/imagePage.JPG
-[2]: https://kkkirilov.github.io/Form-Validation/{:target="_blank"}
+[2]: (https://kkkirilov.github.io/Form-Validation/){:target="_blank" rel="noopener"}
