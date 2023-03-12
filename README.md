@@ -5,4 +5,7 @@
 
 ### WebPage
 
-![header image](<a src="https://kkkirilov.github.io/Form-Validation/">https://github.com/KKKirilov/Form-Validation/blob/master/imagePage.JPG<a>)
+[![1]][2]
+
+[1]: https://github.com/KKKirilov/Form-Validation/blob/master/imagePage.JPG
+[2]: https://kkkirilov.github.io/Form-Validation/
